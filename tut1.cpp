@@ -2,7 +2,7 @@
 
 using namespace std;
 int main(){
-    std::cout<<"Hello Mac\n";
+    std::cout<<"Hello\n";
 
     int a = 10;
     float b = 1.1;
