@@ -32,8 +32,8 @@ public:
 
 int main()
 {
-    // myClass <int, char> obj(1, 'c');
-    myClass <char, float> obj('C', 1.8);
+    myClass <int, char> obj(1, 'c');
+    // myClass <char, float> obj('C', 1.8);
     obj.display();
 
     return 0;
